@@ -18,20 +18,15 @@ spherically.
 
 <h2>Renders</h2>
 
-![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/op1.png)
-![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/op2.png)
-![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/op3.png)
-![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/1s.png)
-![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/2pz.png)
-![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/3dxz.png)
-![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/3dx2y2.png)
-![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/4f3.png)
-![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/5g2.png)
-![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/5g4.png)
-![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/5g5.png)
+| | | |
+:---:|:---:|:---:
+<img src="output/1s.png" width="100%"> <br> | <img src="output/2pz.png" width="100%"/> <br> | <img src="output/3dxz.png" width="100%"/> <br>
+<img src="output/3dx2y2.png" width="100%"> <br> | <img src="output/4f1.png" width="100%"/> <br> | <img src="output/4f3.png" width="100%"/> <br>
+<img src="output/5g2.png" width="100%"> <br> | <img src="output/5g4.png" width="100%"/> <br> | <img src="output/5g5.png" width="320" height="275"/> <br>
+<img src="output/op1.png" width="100%"> <br> | <img src="output/op2.png" width="100%"/> <br> | <img src="output/op3.png" width="100%"/>
 
-<h3>Bonus: Hypothetical higher orbital render (10l) </h3>
+<h4>Bonus: Hypothetical higher orbital render (10l) </h3>
 
-![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/10l6.png)
-![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/10l7.png)
-![alt text](https://github.com/astrobits1/hydro-orb-gen/raw/master/output/op4.png)
+| | | |
+:---:|:---:|:---:
+<img src="output/10l6.png" width="100%"> <br> | <img src="output/10l7.png" width="100%"/> <br> | <img src="output/op4.png" width="100%"/> <br>
