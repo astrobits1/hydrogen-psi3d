@@ -1,4 +1,11 @@
 <h1>Hydrogen Wavefunction Computation and Orbital Generation</h1>
+
+<h2>Motivation & Overview</h2>
+This project was the result of my attempt to computationally visualize atomic orbitals in 3D using the wavefunction alone along with its probability density measures. <br>
+<br>
+All the computation was done by implementing all component functions (Legendre, Laguerre Polynomials for radial and angular components) directly from their mathematical expressions by using sequence based closed forms that could be computationally evaluated.<br>
+Various plots for different quantum numbers were obtained by plotting the obtained probability densities.<br>
+
 <h2>Method</h2>
 
 * Electron wave function $\psi_{n, l, m_{l}}(r, \theta, \phi)$ was obtained by computing $R_{n, l}(r)$ (radial) and $Y_{l, m_l}(\theta, \phi)$ (angular) components individually.
